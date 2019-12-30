@@ -17,3 +17,5 @@ All it does is play a recording of Martin Luther King's "I Have A Dream" speech 
 ![mlk](https://user-images.githubusercontent.com/37126844/71567490-88acc200-2a8d-11ea-82d9-52558738c118.PNG)
 
 Even though it is a basic project, I decided to highlight this project as it was the first completed program I have ever done.
+
+If you wish to download the app, please download the APK above and run it on a Android Device.
