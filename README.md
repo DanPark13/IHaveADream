@@ -1,4 +1,4 @@
-# I Have A Dream App: Where it all began
+# I Have A Dream App: Where my programming journey began
 
 Before the summer of 9th grade, I started to learn how to program.
 
